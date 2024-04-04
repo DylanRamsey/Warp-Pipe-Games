@@ -17,6 +17,25 @@
 <body>
   <nav>
     <div class="top-bar">
-      <a href="">sell us your games</a>
+      <div class="top-bar__left-side">
+        <a href="">sell us your games</a>
+        <input type="text" placeholder="Search...">
+      </div>
+      <div class="top-bar__right-side">
+        <ul class="top_nav">
+          <li>
+            sign out
+          </li>
+          <li>
+            track order
+          </li>
+          <li>
+            my account
+          </li>
+          <li>
+            cart
+          </li>
+        </ul>
+      </div>
     </div>
   </nav>
